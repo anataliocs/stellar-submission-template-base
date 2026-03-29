@@ -14,7 +14,7 @@
     "@astrojs/svelte": "^7.0.10",
     "@stellar/stellar-sdk": "^13.2.0",
     "@tailwindcss/vite": "^4.1.4",
-    "astro": "^5.7.4",
+    "astro": "^5.18.1",
     "chat-demo-sdk": "file:./chat-demo-sdk",
     "passkey-kit": "^0.10.21",
     "svelte": "^5.28.1",
